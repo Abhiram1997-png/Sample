@@ -25,7 +25,7 @@ public class flipkart {
 	
 		//List<WebElement> list1 =driver.findElements(By.xpath("(//div[@class='tLbyDf'])[1]//div[@class='_25HC_u']"));
 		//System.out.println(list1.size());
-		//push
+		//push com
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("(//button[@class='_3qmi1z'])[1]//span")).click();
 		
